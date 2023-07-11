@@ -10,11 +10,11 @@ First, install Gazebo Garden with the instructions given in the link below.
 
 Then install the corresponding rosdep rules.
 
-[*Gazebo Garden *](https://github.com/osrf/osrf-rosdep#installing-rosdep-rules-to-resolve-gazebo-garden-libraries)[*R*](https://github.com/osrf/osrf -rosdep#installing-rosdep-rules-to-resolve-gazebo-garden-libraries)[*osdep *](https://github.com/osrf/osrf-rosdep#installing-rosdep-rules-to-resolve-gazebo-garden-libraries)[*R*](https://github.com/osrf/osrf -rosdep#installing-rosdep-rules-to-resolve-gazebo-garden-libraries)[*ules*](https://github.com/osrf/osrf-rosdep#installing-rosdep-rules-to-resolve-gazebo -garden-libraries)
+[Gazebo Garden Rosdep Rules](https://github.com/osrf/osrf-rosdep#installing-rosdep-rules-to-resolve-gazebo-garden-libraries)
 
 Finally, clone the ros_gz packages in your workspace and build them. Make sure to compile it for `GZ_VERSION=garden`.
 
-[*Installing ros_gz *](https://github.com/gazebosim/ros_gz/tree/humble#from-source)[*F*](https://github.com/gazebosim/ros_gz/tree/humble#from-source)[ *rom *](https://github.com/gazebosim/ros_gz/tree/humble#from-source)[*S*](https://github.com/gazebosim/ros_gz/tree/humble#from-source)[ *source*](https://github.com/gazebosim/ros_gz/tree/humble#from-source)
+[Installing ros_gz from srouce](https://github.com/gazebosim/ros_gz/tree/humble#from-source)
 
 You can use the following command to prevent your RAM from suddenly filling up. It will take about 10 minutes to compile depending on your hardware.
 
