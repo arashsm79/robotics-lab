@@ -18,4 +18,4 @@ This node sends its control commands to the `/turtlesim` node with a frequency o
 
 During execution, if the stop parameter is changed, the robot should go to the appropriate state and perform the correct behavior. Said states must exist in the code with appropriate names and transitions from one state to the next must be clear.
 
-You can checkout the code related to [turtlesim_teleop_key](https://github.com/ros/ros_tutorials/blob/db6328879831b4abadac939bd69b43133414c0db/turtlesim/tutorials/teleop_turtle_key.cpp) and [*turtlesim*](https://github .com/ros/ros_tutorials/tree/humble/turtlesim)  to get help.
+You can checkout the code related to [turtlesim_teleop_key](https://github.com/ros/ros_tutorials/blob/db6328879831b4abadac939bd69b43133414c0db/turtlesim/tutorials/teleop_turtle_key.cpp) and [turtlesim](https://github.com/ros/ros_tutorials/tree/humble/turtlesim)  to get help.
