@@ -6,7 +6,7 @@ In this experiment, we are going to design a simple mobile robot and simulate it
 
 # Exercise 1
 
-Using [this tutorial](https://gazebosim.org/docs/garden/building_robot) (and  [URDF](https://docs.ros.org/en/foxy/Tutorials/ Intermediate/URDF/URDF-Main.html)[in ROS2](https://docs.ros.org/en/foxy/Tutorials/Intermediate/URDF/URDF-Main.html)[ ](https://docs. ros.org/en/foxy/Tutorials/Intermediate/URDF/URDF-Main.html) which we have read before) design a mobile robot as shown below. The body of the robot is a short cylinder that is attached to both sides of the wheel and there is a caster wheel in front of it.
+Using [this tutorial](https://gazebosim.org/docs/garden/building_robot) (and  [URDF](https://docs.ros.org/en/foxy/Tutorials/Intermediate/URDF/URDF-Main.html) in ROS2 which we have read before) design a mobile robot as shown below. The body of the robot is a short cylinder that is attached to both sides of the wheel and there is a caster wheel in front of it.
 ![](assets/lab4/robot.png)
 
 # Exercise 2
