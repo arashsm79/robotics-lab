@@ -15,12 +15,12 @@ Read the following guides and documentation and do the tasks in each tutorial st
 
 ## Exercise 1
 
-a) We know that each executable file can have several nodes. If we want to change the turtle1 node name to my_turtle01 in the turtlesim package and turtlesim_nodes executable file, what command can we use? [[Remapping](https://design.ros2.org/articles/ros_command_line_arguments.html#name-remapping-rules)] (note that there are several nodes with different names in the executable program)
-b) We want to send a `geometry_msgs/msg/Pose` message to the `/robot/pose` topic through the CLI with an interval of 2 messages per second. Write the required command.  [[geometry_msgs](https://docs.ros2.org/latest/api/geometry_msgs/index-msg.html)], [[Quaternion](https://docs.ros.org/en/humble/Tutorials/Intermediate/Tf2/Quaternion-Fundamentals.html)]
-c) First, get information about `turtlesim/srv/SetPen` type with the `ros2 interface show` command and write a command that sends a request to the `turtle1/set_pen` service. 
-d) Is it possible to simulate the behavior of an action with a set of topics and services? Explain.
-e) What is the default log level in ROS? Why was this decision made?
-f) Draw the last digit of your student number in turtlesim using teleop and record it using bag. You will be prompted to play it again in person.
+1) We know that each executable file can have several nodes. If we want to change the turtle1 node name to my_turtle01 in the turtlesim package and turtlesim_nodes executable file, what command can we use? [[Remapping](https://design.ros2.org/articles/ros_command_line_arguments.html#name-remapping-rules)] (note that there are several nodes with different names in the executable program)
+2) We want to send a `geometry_msgs/msg/Pose` message to the `/robot/pose` topic through the CLI with an interval of 2 messages per second. Write the required command.  [[geometry_msgs](https://docs.ros2.org/latest/api/geometry_msgs/index-msg.html)], [[Quaternion](https://docs.ros.org/en/humble/Tutorials/Intermediate/Tf2/Quaternion-Fundamentals.html)]
+3) First, get information about `turtlesim/srv/SetPen` type with the `ros2 interface show` command and write a command that sends a request to the `turtle1/set_pen` service. 
+4) Is it possible to simulate the behavior of an action with a set of topics and services? Explain.
+5) What is the default log level in ROS? Why was this decision made?
+6) Draw the last digit of your student number in turtlesim using teleop and record it using bag. You will be prompted to play it again in person.
 
 ## Programming in ROS
 
