@@ -22,9 +22,9 @@ After reading *all* of the above, do the exercises.
 
 # Exercise 1
 
-a) What is the difference between the packages in [rosdistro/rosdep/base.yaml](https://github.com/ros/rosdistro/blob/master/rosdep/base.yaml) and those that are located in [rosdistro/humble/distribution.yaml](https://github.com/ros/rosdistro/blob/master/humble/distribution.yaml)?
-b) According to the previous question, in what category does the `slam_toolbox` package fall and How will rosdep install it? How about the `ffmpeg` package?
-c) Briefly explain in one paragraph what IDL is and How ROS uses it. [IDL Spec](https://www.omg.org/spec/IDL/), [ROS IDL Mapping](https://design.ros2.org/articles/idl_interface_definition.html), [rosidl](https://docs.ros.org/en/rolling/Concepts/About-Internal-Interfaces.html#the-rosidl-repository)
+1) What is the difference between the packages in [rosdistro/rosdep/base.yaml](https://github.com/ros/rosdistro/blob/master/rosdep/base.yaml) and those that are located in [rosdistro/humble/distribution.yaml](https://github.com/ros/rosdistro/blob/master/humble/distribution.yaml)?
+2) According to the previous question, in what category does the `slam_toolbox` package fall and How will rosdep install it? How about the `ffmpeg` package?
+3) Briefly explain in one paragraph what IDL is and How ROS uses it. [IDL Spec](https://www.omg.org/spec/IDL/), [ROS IDL Mapping](https://design.ros2.org/articles/idl_interface_definition.html), [rosidl](https://docs.ros.org/en/rolling/Concepts/About-Internal-Interfaces.html#the-rosidl-repository)
 
 # Exercise 2
 
