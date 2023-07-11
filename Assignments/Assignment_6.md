@@ -16,7 +16,7 @@ git clone https://github.com/ros-perception/depthimage_to_laserscan.git -b ros2
 ```
 Then install the dependencies with rosdep. This package takes the depth_image data, selects a row from it, and converts it to a LaserScan.
 
-Write a launch file that does all of the following after starting the maze world with Eddie in it (Reminder: see how to add [remapping](https://docs.ros.org/en/humble/Tutorials/ See Intermediate/Launch/Using-ROS2-Launch-For-Large-Projects.html#remapping) in the launch file):
+Write a launch file that does all of the following after starting the maze world with Eddie in it (Reminder: see how to add [remapping](https://docs.ros.org/en/humble/Tutorials/Intermediate/Launch/Using-ROS2-Launch-For-Large-Projects.html#remapping) in the launch file):
 
 1. It creates a bridge for the following topics:
 
