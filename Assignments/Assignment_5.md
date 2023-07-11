@@ -6,9 +6,9 @@
 Gazebo tutorials from labs:
 - [Spawn Urdf](https://gazebosim.org/docs/garden/spawn_urdf)
 - [Ros 2 Integration](https://gazebosim.org/docs/garden/ros2_integration)
-* [Understanding The Gui] (https://gazebosim.org/docs/garden/gui)
+- [Understanding The Gui](https://gazebosim.org/docs/garden/gui)
 - [Manipulating Models](https://gazebosim.org/docs/garden/manipulating_models)
-- [Building Your Own Robot] (https://gazebosim.org/docs/garden/building_robot)
+- [Building Your Own Robot](https://gazebosim.org/docs/garden/building_robot)
 - [Moving The Robot](https://gazebosim.org/docs/garden/moving_robot)
 - [Sdf Worlds](https://gazebosim.org/docs/garden/sdf_worlds)
 - [Sensors](https://gazebosim.org/docs/garden/sensors)
@@ -66,6 +66,6 @@ by using
 $ ros2 interface show sensor_msgs/msg/Image
 ```
 
-Check the image message type and if necessary use [*GitHub search*](https://github.com/search?q=sensor_msgs%2Fmsg%2FImage+rclcpp+language%3AC%2B%2B&type=code&l= C%2B%2B) to check out sample codes that use camera sensor data.
+Check the image message type and if necessary use [*GitHub search*](https://github.com/searchq=sensor_msgs%2Fmsg%2FImage+rclcpp+language%3AC%2B%2B&type=code&l=C%2B%2B) to check out sample codes that use camera sensor data.
 
 Design a launch file that first calls the launch file of the previous exercise and then starts the necessary bridges for the topics related to the normal image of the Kinect sensor and the speed control of the robot. Finally, it should run the node you created.
